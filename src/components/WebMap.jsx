@@ -149,3 +149,12 @@ export default function WebMap() {
     </div>
   );
 }
+
+
+/** 
+ * find the dataset 
+ * query data 
+ * visualization filter data 
+ * render data on the map 
+ * 
+*/
